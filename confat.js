@@ -3,10 +3,10 @@ const chalk = require('chalk')
 const setting = JSON.parse(fs.readFileSync('./setting.json'));
 
 // Other
-global.owner = ["62887435047326","62887435047326"]
-global.packname = 'ZeeoneOfc'
-global.youtube = 'https://youtube.com/c/ZeeoneOfc'
-global.author = '© Alphabot MD'
+global.owner = ["6288276765449","6288276765449"]
+global.packname = 'Itsme•Al'
+global.youtube = 'https://www.instagram.com/itsmealwi_'
+global.author = '© JouganBot MD'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
